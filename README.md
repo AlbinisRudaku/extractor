@@ -1,1 +1,1 @@
-# extractor
+This extension, Sentence Extractor and PDF Creator, does not collect, store, or transmit any personal data from users. All processing is done locally on the user's machine, and no information is sent to external servers. We respect your privacy and are committed to keeping your data safe.  For any questions or concerns regarding this privacy policy, please contact us at ruddaku@gmail.com.
